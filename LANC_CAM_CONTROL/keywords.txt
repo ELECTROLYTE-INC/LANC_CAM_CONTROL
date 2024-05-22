@@ -1,0 +1,28 @@
+###########################################
+# Syntax Coloring Map For LANC_CAM_CONTROL library
+###########################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+startStopRecording	KEYWORD1
+zoomIn	KEYWORD2
+zoomOut	KEYWORD2
+focusNear	KEYWORD1
+focusFar	KEYWORD1
+focusAuto	KEYWORD1
+powerOff	KEYWORD1
+powerOn	KEYWORD1
+powerRestart	KEYWORD1
+powerSleep	KEYWORD1
+menu	KEYWORD1
+up	KEYWORD1
+down	KEYWORD1
+left	KEYWORD1
+right	KEYWORD1
+execute	KEYWORD1
+
+#######################################
+Based on code of KOCH Martin - Created by DANEL Mario
+#######################################
